@@ -4,8 +4,8 @@
  * Description: Get ACF fields recursively
  * Author: Aires Gonçalves
  * Author URI: http://github.com/airesvsg
- * Version: 1.0.0
- * Plugin URI: http://github.com/airesvsg/acf-to-rest-api-recursive
+ * Version: 1.0.1
+ * Plugin URI: http://github.com/furedal/acf-to-rest-api-recursive
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
